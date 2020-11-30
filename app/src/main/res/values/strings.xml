@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BottomNavigationBar</string>
+    <string name="title_activity_headline_tabs">HeadlineTabs</string>
+    <string name="tab_text_1">WORLD</string>
+    <string name="tab_text_2">BUSINESS</string>
+    <string name="tab_text_3">POLITICS</string>
+    <string name="tab_text_4">SPORTS</string>
+    <string name="tab_text_5">TECHNOLOGY</string>
+    <string name="tab_text_6">SCIENCE</string>
+    <string name="units">\u2103</string>
+
+    <string name="title_activity_headlines">HeadlinesActivity</string>
+    <string name="title_activity_tabbed_headlines">TabbedHeadlines</string>
+    <string name="title_activity_headlines_tabbed">HeadlinesTabbed</string>
+    <string name="view_full_article"><u>View Full Article</u></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
